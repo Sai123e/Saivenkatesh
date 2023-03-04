@@ -1,0 +1,250 @@
+<DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="index.css">
+</head>
+<body>
+<nav>
+<div>
+<img src="file:///C:/Users/NTR%20GDC/Documents/BigBasket_logo_0709211000 " > 
+</div>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<div>
+<input type="text" placeholder="search for product">
+</div>
+<div class="input">
+
+<a href="file:///C:/Users/NTR%20GDC/Documents/log%20in%20.html">log in page</a>
+<p> My basket</p>
+</div>
+</nav>
+
+<div class="sec">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+.dropbtn {
+  background-color: #04AA6D;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+.dropdown-content a:hover {background-color: #ddd;}
+
+.dropdown:hover .dropdown-content {display: block;}
+
+.dropdown:hover .dropbtn {background-color: lime;}
+</style>
+</head>
+<body>
+<div class="dropdown">
+  <button class="dropbtn">shop by category</button>
+  <div class="dropdown-content">
+    <a href="file:///C:/Users/NTR%20GDC/Documents/fruits.html"> Fruits & vegetables</a>
+    <a href="file:///C:/Users/NTR%20GDC/Documents/food.html">Foodgrains, oil & Masala</a>
+    <a href="file:///C:/Users/NTR%20GDC/Documents/berry.html">bakery, cakes & dairy</a>
+    <a href="file:///C:/Users/NTR%20GDC/Documents/beverage.html">beverages</a>
+    <a href="file:///C:/Users/NTR%20GDC/Documents/snacks.html">snacks & branded foods</a>
+    <a href="file:///C:/Users/NTR%20GDC/Documents/beauty.html">beauty & hygiene</a>
+   <a href="file:///C:/Users/NTR%20GDC/Documents/House%20.html">cleaning & household</a>
+   <a href="file:///C:/Users/NTR%20GDC/Documents/pets%20.html">kitchen, garden& pets </a>
+   <a href="file:///C:/Users/NTR%20GDC/Documents/fish.html">eggs,meat & fish</a>
+   <a href="file:///C:/Users/NTR%20GDC/Documents/world.html">gourmet & worldfood</a>
+   <a href="file:///C:/Users/NTR%20GDC/Documents/baby.html">baby care</a>
+   <a href="#">view all</a>
+  
+ </div>
+</div>
+
+</body>
+</html>
+
+
+<input type="text" placeholder="OFFER's">
+</div>
+<marquee>
+<div class="main-page">
+<img src="file:///C:/Users/NTR%20GDC/Documents/img1.webp" alt=" home page ">
+<img src="file:///C:/Users/NTR%20GDC/Documents/25%250.webp">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="file:///C:/Users/NTR%20GDC/Documents/789456.webp">
+</marquee>
+</div>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/egg.webp "> &nbsp;&nbsp;<img 
+src="file:///C:/Users/NTR%20GDC/Documents/pass.webp "> &nbsp;&nbsp;<img 
+src=" file:///C:/Users/NTR%20GDC/Documents/ayur.webp">&nbsp;&nbsp;<img 
+src="file:///C:/Users/NTR%20GDC/Documents/buy.webp "> &nbsp;&nbsp;<img 
+src="file:///C:/Users/NTR%20GDC/Documents/deals.webp "></center>
+<div>
+<center><h1> Bank offers</h1></center>
+<img src=" file:///C:/Users/NTR%20GDC/Documents/201.webp" width=23% height42%>&nbsp;&nbsp; <img
+ src=" file:///C:/Users/NTR%20GDC/Documents/indu.webp" width=23% height=40%> &nbsp;&nbsp;<img 
+src="file:///C:/Users/NTR%20GDC/Documents/150.webp"width=23% height=40%>  &nbsp;&nbsp;<img
+ src="file:///C:/Users/NTR%20GDC/Documents/200.webp "width=23% height=40%>
+
+</div>
+
+<center><h1> Best sellers</h1></center>
+<div>
+<div class="container">
+<div class="card">
+<img src="file:///C:/Users/NTR%20GDC/Documents/onion.webp" alt="onion ">
+<p>RS 19.33</p>
+<p>standard Delivery</p>
+<p>10:00AM to 1:00pm</p>
+</div>
+
+<div class="card">
+<img src=" file:///C:/Users/NTR%20GDC/Documents/eggs.webp" alt=" ">
+<p>Rs 19.33</p>
+<p>standard Delivery</p>
+<p>10:00AM to 1:00 PM</p>
+</div>
+
+<div class="card">
+<img src="file:///C:/Users/NTR%20GDC/Documents/bana.webp " alt=" ">
+<p>RS 19.33</p>
+<p>Standard Delivery</p>
+<p>10:00AM to 1:00 PM</p>
+</div>
+
+<div class="card">
+<img src="file:///C:/Users/NTR%20GDC/Documents/pota.webp " alt=" ">
+<p>RS 19.33 </p>
+<p>Standard Delivery</p>
+<p>10:00AM to 1:00 PM</p>
+</div>
+
+<div class="card">
+<img src="file:///C:/Users/NTR%20GDC/Documents/prom.webp " alt=" ">
+<p>RS 19.33</p>
+<p>Standard Delivery</p>
+<p>10:00AM to 1:00 PM</P>
+</div>
+</div>
+</div>
+</div>
+</div>
+
+
+<center><h1>Top sellers</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/deal.webp " width=25% height=40%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/bigs.webp " width=25% height=40%><img 
+src="file:///C:/Users/NTR%20GDC/Documents/miss.webp"width=25% height=40%><img src=" file:///C:/Users/NTR%20GDC/Documents/corner.webp"width=25% height=40%>
+
+
+<center><h1>Fruits and Vegetables</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/fru.webp " width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/35.webp" width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/exo.webp"width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/cuts.webp"width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/organ.webp"width=20% height=30%>
+
+<center><h1> Your Daily Staples</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/atta.webp " width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/rice.webp"width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/dal.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/oil.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/dry.webp "width=20% height=30%>
+
+<center><h1>Beverages</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/50.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/coffe.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/1024.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/fruity.webp "width=20% height=30%><img 
+src="file:///C:/Users/NTR%20GDC/Documents/power.webp "width=20% height=30%>
+
+
+<center><h1>Snacks Store</h1></center>
+<img src= "file:///C:/Users/NTR%20GDC/Documents/opps.webp "width=25% height=40%><img
+ src= "file:///C:/Users/NTR%20GDC/Documents/74.webp "width=25% height=40%><img
+ src= "file:///C:/Users/NTR%20GDC/Documents/75.webp "width=25% height=40%><img
+ src= "file:///C:/Users/NTR%20GDC/Documents/71.webp "width=25% height=40%>
+
+<center><h1>Cleaning & Household</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/09.webp "width=25% height=40%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/40%25.webp "width=25% height=40%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/50%25.webp "width=25% height=40%><img
+ src=" file:///C:/Users/NTR%20GDC/Documents/55%25.webp"width=25% height=40%>
+
+<center><h1>Beauty and Hygiene</h1></center>
+<img src="file:///C:/Users/NTR%20GDC/Documents/60%25.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/25%25.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/30%25.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/33%25.webp "width=20% height=30%><img 
+src="file:///C:/Users/NTR%20GDC/Documents/199.webp "width=20% height=30%>
+
+<center><h1>Home and Kitchen</h1></center>
+<img src=" file:///C:/Users/NTR%20GDC/Documents/149.webp"width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/299.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/50%25.webp "width=20% height=30%><img
+ src="file:///C:/Users/NTR%20GDC/Documents/60%25.webp "width=20% height=30%><img 
+src="file:///C:/Users/NTR%20GDC/Documents/70%25.webp "width=20% height=30%>
+
+
+<center><img src="file:///C:/Users/NTR%20GDC/Documents/extr.webp "></center>
+<center><h1>Brand Store</h1></center>
+<img src= " file:///C:/Users/NTR%20GDC/Documents/20.webp"width=16% height=25%><img
+src="file:///C:/Users/NTR%20GDC/Documents/52.webp "width=16% height=25%><img
+src="file:///C:/Users/NTR%20GDC/Documents/78.webp "width=16% height=25%><img
+src="file:///C:/Users/NTR%20GDC/Documents/756.webp "width=16% height=25%><img
+src="file:///C:/Users/NTR%20GDC/Documents/852.webp "width=16% height=25%><img
+src="file:///C:/Users/NTR%20GDC/Documents/y.webp "width=16% height=25%>
+<div>
+<center><img src="file:///C:/Users/NTR%20GDC/Documents/963.webp "></center>
+</div>
+
+
+<button>
+<h1>bigbasket - online grocery store</h1>
+<p>Did you ever imagine that the freshest of fruits and vegetables
+, top quality pulses and food grains, dairy products and hundreds of branded items could be
+ handpicked and delivered to your home, all at the click of a button? India's first comprehensive 
+online megastore, bigbasket.com, brings a whopping 20000+ products with more than 1000 brands
+, to over 4 million happy customers. From household cleaning products to beauty and makeup,
+ bigbasket has everything you need for your daily needs. bigbasket.com is convenience personified 
+We've taken away all the stress associated with shopping for daily essentials, and you can now order 
+all your household products and even buy groceries online without travelling long distances or standing
+ in serpentine queues. Add to this the convenience of finding all your requirements at one single source
+, along with great savings, and you will realize that bigbasket- India's largest online supermarket,
+ has revolutionized the way India shops for groceries. Online grocery shopping has never been easier.
+ Need things fresh? Whether it's fruits and vegetables or dairy and meat, we have this covered as well! 
+Get fresh eggs, meat, fish and more online at your convenience. Hassle-free Home Delivery options</p>
+
+<p>We deliver to 25 cities across India and maintain excellent delivery times, ensuring that all
+ your products from groceries to snacks branded foods reach you in time.</p>
+
+<li>Slotted Delivery: Pick the most convenient delivery slot to have your grocery delivered. From early morning delivery for early birds, to late-night
+ delivery for people who work the late shift, bigbasket caters to every schedule.</li>
+<li>Express Delivery: This super useful service can be availed by customers in cities like Bangalore, Mumbai, Pune, Chennai, Kolkata, Hyderabad and
+ Delhi-NCR in which we deliver your orders to your doorstep in 90 Minutes.</li>
+<li>BB Specialty stores: Missed out on buying that essential item from your favorite neighborhood store for tonight's party? We'll deliver it for you! From bakery, sweets and meat to flowers and chocolates, we deliver your order in 90 minutes,
+ through a special arrangement with a nearby specialty store, verified by us.</li>
+</button>
